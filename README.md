@@ -1,0 +1,1 @@
+This is a follow along project that is on the Python Crash Course book written by Eric Mathes. This project uses the Pygame package to develop a 2D game.
